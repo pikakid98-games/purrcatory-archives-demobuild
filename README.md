@@ -4,7 +4,7 @@ The version made specifically to test a bunch of (albiet EXTREMELY FUCKING JANK)
 
 ## Where can I download this?
 
-Prebuilt binaries are available [Here](https://github.com/pikakid98/purrcatory-archives/releases)
+Prebuilt binaries are available [Here](https://github.com/pikakid98-games/purrcatory-archives/releases)
 
 ### <b><u>Building requirements</b></u>
 
